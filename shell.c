@@ -13,7 +13,8 @@
 ** utility for accessing SQLite databases.
 */
 #if defined(_WIN32) || defined(WIN32)
-/* This needs to come before any includes for MSVC compiler */
+/* This needs to come before any includes for MSVC compiler 
+	This is a fazoool comment ...*/
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 
