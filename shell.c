@@ -26,6 +26,8 @@
 #include <ctype.h>
 #include <stdarg.h>
 
+/* This is for branch Temp02 ... */
+
 #if !defined(_WIN32) && !defined(WIN32) && !defined(__OS2__)
 # include <signal.h>
 # if !defined(__RTP__) && !defined(_WRS_KERNEL)
