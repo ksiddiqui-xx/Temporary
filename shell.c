@@ -18,6 +18,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 /* Wohra ... bara tight tool hai yeah ...*/
+/* Wohra ... bara tight tool hai yeah ...*/
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
